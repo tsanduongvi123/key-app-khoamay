@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "key": "PRIVATE_DEVICE_KEY",
+      "date": "31/12/2026",
+      "time": "12:00",
+      "status": "on",
+      "device_limit": 999,
+      "devices": ["abc123deviceid"]
+    },
+    {
+      "key": "LIMIT_2_DEVICES",
+      "date": "31/12/2026",
+      "time": "12:00",
+      "status": "on",
+      "device_limit": 2,
+      "devices": []
+    },
+    {
+      "key": "UNLIMITED_KEY",
+      "date": "31/12/2026",
+      "time": "12:00",
+      "status": "on",
+      "device_limit": 0,
+      "devices": []
+    }
+  ]
+}
