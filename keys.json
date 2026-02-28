@@ -9,12 +9,12 @@
       "devices": []
     },
     {
-      "key": "",
-      "date"DGVIKAKA: "28/2/2026",
+      "key": "DGVIKAKA",
+      "date": "28/2/2026",
       "time": "21:00",
       "status": "on",
       "device_limit": 1,
-      "devices": [08a37cc67eacaa2f]
+      "devices": ["08a37cc67eacaa2f"]
     },
     {
       "key": "UNLIMITED_KEY",
