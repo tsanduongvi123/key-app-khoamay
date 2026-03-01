@@ -13,8 +13,8 @@
       "date": "02/03/2026",
       "time": "22:00",
       "status": "on",
-      "device_limit": 0,
-      "devices": ["xiaomi-24069ra21c-16"]
+      "device_limit": 1,
+      "devices": ["3922b0e295f2ea32"]
     },
     {
       "key": "UNLIMITED_KEY",
