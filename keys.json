@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "key": "DGVIKAKA",
+      "key": "DGVIKAKA1",
       "date": "01/01/9999",
       "time": "12:00",
       "status": "on",
@@ -10,7 +10,7 @@
     },
     {
       "key": "DGVIKAKA",
-      "date": "02/3/2026",
+      "date": "02/03/2026",
       "time": "22:00",
       "status": "on",
       "device_limit": 0,
