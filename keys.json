@@ -1,28 +1,27 @@
-{
-  "keys": [
-    {
-      "key": "DGVIKAKA1",
-      "date": "31/12/2099",
-      "time": "23:59",
-      "status": "on",
-      "device_limit": 999,
-      "devices": []
-    },
-    {
-      "key": "DGVIKAKA",
-      "date": "02/03/2026",
-      "time": "22:00",
-      "status": "on",
-      "device_limit": 1,
-      "devices": ["3922b0e295f2ea32"]
-    },
-    {
-      "key": "UNLIMITED_KEY",
-      "date": "31/12/2026",
-      "time": "12:00",
-      "status": "on",
-      "device_limit": 0,
-      "devices": []
-    }
-  ]
-}
+[
+  {
+    "key": "DGVIKAKA1",
+    "date": "31/12/2099",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 999,
+    "devices": []
+  },
+  {
+    "key": "DGVIKAKA",
+    "date": "02/03/2026",
+    "time": "22:00",
+    "status": "on",
+    "device_limit": 1,
+    "devices": ["3922b0e295f2ea32"]
+  },
+  {
+    "key": "UNLIMITED_KEY",
+    "date": "31/12/2099",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 0,
+    "devices": []
+  }
+  // thêm key khác nếu muốn
+]
