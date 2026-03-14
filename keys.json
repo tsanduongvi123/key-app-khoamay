@@ -28,11 +28,19 @@
   {
     "key": "DGVIZZZ",
     "date": "09/09/9999",
-    "time": "24:00",
+    "time": "23:59",
     "status": "on",
     "device_limit": 0,
     "devices": [
       "7ad6f0dfa99e19ec"
     ]
+  },
+  {
+    "key": "DGVIKAKA666",
+    "date": "11/06/10007",
+    "time": "04:39",
+    "status": "on",
+    "device_limit": 0,
+    "devices": []
   }
 ]
