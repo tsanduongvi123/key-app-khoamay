@@ -31,6 +31,8 @@
     "time": "24:00",
     "status": "on",
     "device_limit": 0,
-    "devices": []
+    "devices": [
+      "7ad6f0dfa99e19ec"
+    ]
   }
 ]
