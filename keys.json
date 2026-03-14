@@ -13,12 +13,22 @@
     "time": "22:00",
     "status": "on",
     "device_limit": 1,
-    "devices": ["7ad6f0dfa99e19ec"]
+    "devices": [
+      "7ad6f0dfa99e19ec"
+    ]
   },
   {
     "key": "UNLIMITED_KEY",
     "date": "31/12/2099",
     "time": "23:59",
+    "status": "on",
+    "device_limit": 0,
+    "devices": []
+  },
+  {
+    "key": "DGVIZZZ",
+    "date": "09/09/9999",
+    "time": "24:00",
     "status": "on",
     "device_limit": 0,
     "devices": []
