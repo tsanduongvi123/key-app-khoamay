@@ -5,7 +5,9 @@
     "time": "23:59",
     "status": "on",
     "device_limit": 999,
-    "devices": []
+    "devices": [
+      "6ef52f0a201fbff8"
+    ]
   },
   {
     "key": "DGVIKAKA0",
@@ -24,16 +26,6 @@
     "status": "on",
     "device_limit": 0,
     "devices": []
-  },
-  {
-    "key": "DGVIZZZ",
-    "date": "09/09/9999",
-    "time": "23:59",
-    "status": "on",
-    "device_limit": 0,
-    "devices": [
-      "7ad6f0dfa99e19ec"
-    ]
   },
   {
     "key": "DGVIKAKA666",
