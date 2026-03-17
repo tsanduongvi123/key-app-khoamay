@@ -1,15 +1,5 @@
 [
   {
-    "key": "DGVIKAKA111",
-    "date": "31/12/2099",
-    "time": "23:59",
-    "status": "on",
-    "device_limit": 999,
-    "devices": [
-      "9jj52f0a201fbjb9"
-    ]
-  },
-  {
     "key": "DGVIKAKA",
     "date": "31/12/9999",
     "time": "23:59",
