@@ -18,5 +18,15 @@
     "devices": [
       "be69bd1cf43577ce"
     ]
+  },
+  {
+    "key": "DGVIMAYAO",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 1,
+    "devices": [
+      "7ad6f0dfa99e19ec"
+    ]
   }
 ]
