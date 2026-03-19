@@ -28,5 +28,15 @@
     "devices": [
       "7ad6f0dfa99e19ec"
     ]
+  },
+  {
+    "key": "ADMIN",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 1,
+    "devices": [
+      "6ef52f0a201fbff8"
+    ]
   }
 ]
