@@ -38,5 +38,15 @@
     "devices": [
       "6ef52f0a201fbff8"
     ]
+  },
+  {
+    "key": "DGVIKEY0002",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 1,
+    "devices": [
+      "3bbd5f8d2aa51016"
+    ]
   }
 ]
