@@ -122,13 +122,5 @@
     "devices": [
       "943a90aa7306b99d"
     ]
-  },
-  {
-    "key": "KEYTEST",
-    "date": "31/12/9999",
-    "time": "23:59",
-    "status": "on",
-    "device_limit": 0,
-    "devices": []
   }
 ]
