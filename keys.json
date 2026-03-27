@@ -124,5 +124,23 @@
     "devices": [
       "b1d8fa919370d723"
     ]
+  },
+  {
+    "key": "DGVIKAKA",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 0,
+    "devices": []
+  },
+  {
+    "key": "DGVIKEY0006",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 1,
+    "devices": [
+      "b602396eb2f44237"
+    ]
   }
 ]
