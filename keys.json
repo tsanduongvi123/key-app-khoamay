@@ -136,5 +136,13 @@
     "devices": [
       "5d11e5ee814b441f"
     ]
+  },
+  {
+    "key": "0333116758",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 0,
+    "devices": []
   }
 ]
