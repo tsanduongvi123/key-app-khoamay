@@ -130,6 +130,15 @@
     ]
   },
   {
+    "key": "DGVIKEY0008",
+    "date": "31/12/9999",
+    "time": "23:59",
+    "status": "on",
+    "device_limit": 1,
+    "devices": [
+      "053d1bf499de37ab"
+    ]
+  {
     "key": "0333116758",
     "date": "31/12/9999",
     "time": "23:59",
