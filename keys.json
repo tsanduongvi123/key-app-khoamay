@@ -140,11 +140,11 @@
     ]
   },
   {
-    "key": "THALOICHOTOI",
+    "key": "BỚT-NGHỊCH-NGU-ĐI",
     "date": "31/12/9999",
     "time": "23:59",
     "status": "on",
-    "device_limit": 0,
-    "devices": []
+    "device_limit": 1,
+    "devices": [cocainit]
   }
 ]
